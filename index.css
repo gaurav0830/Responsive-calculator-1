@@ -16,7 +16,7 @@ body{
     max-width:400px;
     overflow:hidden;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    padding-left:10px;
+    margin-left:20px;
 }
 #calculator:hover{
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
@@ -47,7 +47,7 @@ button{
     font-size:2rem;
     font-weight:bold;
     cursor:pointer;
-    padding-left:20px;
+    margin-left:20px;
 }
 button:hover{
     background-color:hsl(0,0%,40%) ;
