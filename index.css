@@ -16,6 +16,7 @@ body{
     max-width:400px;
     overflow:hidden;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    padding-left:10px;
 }
 #calculator:hover{
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
