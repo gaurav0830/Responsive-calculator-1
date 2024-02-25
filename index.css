@@ -46,6 +46,7 @@ button{
     font-size:2rem;
     font-weight:bold;
     cursor:pointer;
+    padding-right:10px;
 }
 button:hover{
     background-color:hsl(0,0%,40%) ;
