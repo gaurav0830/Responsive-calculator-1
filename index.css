@@ -7,7 +7,7 @@ body{
     height:100vh;
     background-color:#191919 ;
 }
-@media screen and (max-width: 4780px) {
+@media screen and (max-width: 780px) {
    
 #calculator{
     font-family:Arial, sans-serif;
@@ -47,7 +47,6 @@ button{
     font-size:2rem;
     font-weight:bold;
     cursor:pointer;
-    margin-left:20px;
 }
 button:hover{
     background-color:hsl(0,0%,40%) ;
