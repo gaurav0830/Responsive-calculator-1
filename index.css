@@ -13,7 +13,7 @@ body{
     font-family:Arial, sans-serif;
     background-color:hsl(0,0%,15%) ;
     border-radius: 15px;
-    max-width:400px;
+    max-width:100%;
     overflow:hidden;
     box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
     margin-top:-10px;
